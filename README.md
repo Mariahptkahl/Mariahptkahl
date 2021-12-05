@@ -5,20 +5,18 @@
 - 📚 Atualmente desenvolvendo as minhas habilidades no FrontEnd
 - 📫 Contate-me no E-mail: mariahptkahl@gmail.com
 - 😃 Pronomes: Ela/Dela
-- <h2> Me encontre!<h2>
+ <h1> Me encontre!<h1>
    <div style= "display: inline-block"><br>
      <a href="mailto:mariahptkahl@gmail.com">
-        <img align="center" alt=email height="40" width="55" src="https://cdn.icon-icons.com/icons2/2751/PNG/512/email_icon_176156.png">
+        <img align="center" alt=email height="40" width="60" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
      </a>
      <a class="whatsapp-link" href="https://web.whatsapp.com/send?phone=47989094234" target="_blank">
-        <img align="center" alt=wpp height="40" width="55" src="https://www.jungnapratica.com.br/wp-content/uploads/2019/05/icon-whatsApp.png">
+        <img align="center" alt=wpp height="40" width="60" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
      </a>
    </div>
 <div>
   <a href="https://github.com/Mariahptkahl">
-    
-    <h1> My skills </h1>
-   
+    <h2> My skills </h2>
 </div>
  <div style= "display: inline_block"><br>
   <img align="center" alt=mari-css height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
