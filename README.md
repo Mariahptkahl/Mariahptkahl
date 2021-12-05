@@ -5,7 +5,6 @@
 - 📚 Atualmente desenvolvendo as minhas habilidades no FrontEnd
 - 📫 Contate-me no E-mail: mariahptkahl@gmail.com
 - 😃 Pronomes: Ela/Dela
- <h1> Me encontre!<h1>
    <div style= "display: inline-block"><br>
      <a href="mailto:mariahptkahl@gmail.com">
         <img align="center" alt=email height="40" width="60" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
