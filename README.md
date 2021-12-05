@@ -24,7 +24,11 @@
         <img align="center" alt=wpp height="40" width="55" src="https://www.jungnapratica.com.br/wp-content/uploads/2019/05/icon-whatsApp.png">
      </a>
    </div>
-  [![Mariahptkahl github stats](https://github-readme-stats.vercel.app/api?username=Mariahptkahl&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/Mariahptkahl)
-    [![mariah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariahptkahl)](https://github.com/Mariahptkahl/github-readme-stats)
    
+ <div align="center">
+  <a href="https://github.com/Mariahptkahl">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mariahptkahl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariahptkahl&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 
